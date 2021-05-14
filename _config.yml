@@ -6,7 +6,7 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/logo/logo-mobile.svg
-  desktop: images/A-3.png
+  desktop: images/remarkable-sage.png
   desktop_height: 36px
 footer:
   copyright_text: >-
